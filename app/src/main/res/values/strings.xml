@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Androboum</string>
+    <string name="title">L\'application qui fait BOUM !</string>
+    <string name="copyright">\@Corentin MARCO - 2017/2018</string>
+    <string name="startbutton">Démarrer</string>
+    <string name="facebook_application_id" translatable="false">1809914232370472</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_logout">Déconnexion</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1809914232370472</string>
+</resources>
