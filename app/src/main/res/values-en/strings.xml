@@ -5,4 +5,5 @@
     <string name="startbutton">Start</string>
     <string name="action_settings">Settings</string>
     <string name="action_logout">Logout</string>
+    <string name="imageUploaded">Picture succesfully updated</string>
 </resources>
